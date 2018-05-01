@@ -1,0 +1,63 @@
+/* estilos css Level5 */
+
+body {
+	margin: 0 auto;
+	padding: 0;
+	text-align: left;
+	
+	
+}
+#header{
+	font-size: 5em;
+	margin-top: 0.5px;
+	padding: 0;
+	margin-left: 10%;
+	
+}
+#galeriaPrincipal{
+	margin-top: 2.5%;
+	margin-left: 40%;
+}
+#galeriaPrincipal li{
+	
+}
+
+#navigation{
+	width: 100%;
+	margin-left: 7%;
+	list-style: none;
+	float: left;
+	font: bold 1.4em  Verdana, Arial, Helvetica, sans-serif;	
+}
+#navigation li{
+	float: left;
+	list-style: none;
+}
+#navigation ul li a{
+	display: block;
+	text-decoration: none;
+	margin-right: 2px;
+	margin-left: 2px;
+	color: White;
+	border: 1px solid #778;
+	padding: 0.25em 1.5em 0.3em 1em;
+	border-left: 1em solid #069;
+	background: #000;
+	font-weight: 400;
+	
+	
+}
+#navigation ul li a:visited:hover{
+	background: #fff;
+	color: #000;
+	border-bottom: 1px solid white;
+}
+
+.texto {
+	
+	width: 80%;
+	margin-left: 10%;
+	height: 450px;
+	background-repeat: no-repeat;
+	text-align: center;
+} 
